@@ -1,5 +1,5 @@
 ### Hi there :wave: , I'm Monu Kumar
-
+![GitHub followers](https://img.shields.io/github/followers/monukmodi?label=Follow%20me&style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/monukmodi?label=Follow%20me&style=social) 
 <!--
 **monukmodi/monukmodi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
