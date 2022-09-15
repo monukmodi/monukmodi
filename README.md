@@ -34,7 +34,13 @@
  
  ### Projects
  [![](https://img.shields.io/badge/-🦠%20COVID‑19%20Dashboard-000)](https://corona-19-details.herokuapp.com/)
-  [![](https://img.shields.io/badge/-%20React%20Terminal-000)](https://react-terminal-two.vercel.app/)
+ [![](https://img.shields.io/badge/-%20React%20Terminal-000)](https://react-terminal-two.vercel.app/)
+ [![](https://img.shields.io/badge/-%20Exercise%20App-000)](https://exercise-app-monukmodi.vercel.app/)
+ [![](https://img.shields.io/badge/-%Crypto%20Price-000)](https://monukmodi.github.io/CrypSea/)
+ [![](https://img.shields.io/badge/-%20Carson%20Construction-000)](https://carson-construction.vercel.app/)
+ [![](https://img.shields.io/badge/-%20Shopping%20Cart-000)](https://monukmodi.github.io/shopping-Cart/)
+
+
 
  
 ### Connect with me :smiley:
