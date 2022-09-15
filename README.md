@@ -34,7 +34,7 @@
  
  ### Projects
  [![](https://img.shields.io/badge/-🦠%20COVID‑19%20Dashboard-000)](https://corona-19-details.herokuapp.com/)
-  [![](https://img.shields.io/badge/-🦠%20React%20Terminal-000)](https://react-terminal-two.vercel.app/)
+  [![](https://img.shields.io/badge/-%20React%20Terminal-000)](https://react-terminal-two.vercel.app/)
 
  
 ### Connect with me :smiley:
