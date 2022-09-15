@@ -13,7 +13,8 @@
     <li>🌱 I’m currently learning <b>React Native</b></li>
     <li>🔭 I’m currently working on something interesting :wink:</li>
     <li>💬 Ask me anything related to <b>Javascript</b> or <b>React</b> I am happy to help you :blush: </li>
-    <li>👯 I’m looking to collaborate on projects that are using Javascript </li>
+    <li>👯 I’m looking to collaborate on 
+    that are using Javascript </li>
     <li>✉️  You can email me at <a href="mailto:monukr2012@gmail.com">monukr2012@gmail.com</a>. I'll try to respond as soon as possible!</li>
     </ul>
    <br />
@@ -33,6 +34,8 @@
  
  ### Projects
  [![](https://img.shields.io/badge/-🦠%20COVID‑19%20Dashboard-000)](https://corona-19-details.herokuapp.com/)
+  [!](https://react-terminal-two.vercel.app/)
+
  
 ### Connect with me :smiley:
 <a href="https://twitter.com/monukmodi">
