@@ -7,7 +7,7 @@
   <img align="left" alt="Monu's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a> -->
 
-<p>Hi, I'm <b>Monu Kumar</b>, a passionate self-taught Full Stack web developer and a freelance software engineer from <img src="https://img-premium.flaticon.com/png/512/197/197419.png?token=exp=1621020207~hmac=7236779c05c0b2ad3aa012f374c19962" width="15" > <b>India</b>. 
+<p>Hi, I'm <b>Monu Kumar</b>, a passionate self-taught web developer and a freelance software engineer from <img src="https://img-premium.flaticon.com/png/512/197/197419.png?token=exp=1621020207~hmac=7236779c05c0b2ad3aa012f374c19962" width="15" > <b>India</b>. 
   <br />
   <ul>
     <li>🌱 I’m currently learning <b>React Native</b></li>
