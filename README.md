@@ -7,15 +7,15 @@
   <img align="left" alt="Monu's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a> -->
 
-<p>Hi, I'm <b>Monu Kumar</b>, a passionate self-taught web developer and a freelance software engineer from <img src="https://img-premium.flaticon.com/png/512/197/197419.png?token=exp=1621020207~hmac=7236779c05c0b2ad3aa012f374c19962" width="15" > <b>India</b>. 
+<p>Hi, I'm <b>Monu Kumar</b>, a passionate Full Stack Developer from <img src="https://img-premium.flaticon.com/png/512/197/197419.png?token=exp=1621020207~hmac=7236779c05c0b2ad3aa012f374c19962" width="15" > <b>India</b>. 
   <br />
   <ul>
-    <li>🌱 I’m currently learning <b>React Native</b></li>
+    <li>🌱 I’m currently learning <b>Node JS </b></li>
     <li>🔭 I’m currently working on something interesting :wink:</li>
     <li>💬 Ask me anything related to <b>Javascript</b> or <b>React</b> I am happy to help you :blush: </li>
     <li>👯 I’m looking to collaborate on 
     that are using Javascript </li>
-    <li>✉️  You can email me at <a href="mailto:monukr2012@gmail.com">monukr2012@gmail.com</a>. I'll try to respond as soon as possible!</li>
+    <li>✉️  You can email me at <a href="mailto:monukmodi@outlook.com">monukmodi@outlook.com</a>. I'll try to respond as soon as possible!</li>
     </ul>
    <br />
   🛠 <b>Tech Stack</b>
